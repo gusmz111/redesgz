@@ -46,7 +46,7 @@ ul li{
 }
 .secciones{
     margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
 }
 .secciones ul li a{
     font-size: 1.5rem;
@@ -80,7 +80,7 @@ ul li{
 
 .redes{
     background: #D5CFC0;
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-bottom: 1rem;
     border-top: 5px solid black;
 }
@@ -88,9 +88,9 @@ ul li{
 .redes ul li a{
     color: black;
     background:#D5CFC0;
-    padding: 0.4rem;
-    padding-left: 0.6rem;
-    padding-right: 0.6rem;
+    padding: 0.7rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
     border-radius: 80%;
     font-size: 1.5rem;
     border: 3px solid black;
@@ -144,8 +144,8 @@ h2{
     color: rgb(0, 153, 255);
 }
 textarea{
-       font-size: 1rem;
-       color: rgb(0, 174, 255);
+       font-size: 1.5rem;
+       color: black;
 }
 button{
     padding: 0.5rem;
@@ -155,4 +155,7 @@ button{
     font-size: 1rem;
     font-weight: bold;
     box-shadow: 2px 2px 5px black;
+}
+button:hover{
+    background: black;
 }
